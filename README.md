@@ -6,7 +6,7 @@ Projeto desenvolvido na aula de lógica de programação da Alura
 | -------------  | --- |
 | :sparkles: Nome        | **Jogo do número secreto**
 | :label: Tecnologias | javascript
-| :rocket: URL         | 
+| :rocket: URL         | https://github.com/BoscoLacerda/logica-js-projeto_inicial_alura/
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
