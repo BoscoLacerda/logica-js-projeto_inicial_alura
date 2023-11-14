@@ -1,6 +1,6 @@
 # logica-js-projeto_inicial_alura
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido na aula de lógica de programação da Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/BoscoLacerda/logica-js-projeto_inicial_alura/blob/main/Jogo%20n%C3%BAmero%20secerto%201.png#vitrinedev)
+![](https://1drv.ms/i/s!AuYUE4w63WSxivwxyvAMeZR3sUrEWg?e=PNxkxW#vitrinedev)
 
 ## Detalhes do projeto
 
